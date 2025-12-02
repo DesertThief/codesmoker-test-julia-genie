@@ -1,0 +1,10 @@
+name = "CodesmokerGenieApp"
+uuid = "12345678-1234-5678-1234-567812345678"
+authors = ["CodeSmoker"]
+version = "0.1.0"
+
+[deps]
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+GenieFramework = "9673c195-4ec2-4429-a7c6-cb5455c7d94b"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
